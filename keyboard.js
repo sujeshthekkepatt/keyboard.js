@@ -1,4 +1,4 @@
 (function(){
 
-console.log("keyboard.js");
+console.log("keyboard.js started");
 });
